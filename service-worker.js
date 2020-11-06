@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tets/aare/dist/precache-manifest.62ac840413f9eb06a683c22946ce9f2a.js"
+  "precache-manifest.f403dc15d98f11b01f1ddbcecfd2068e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "aare"});
